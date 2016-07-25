@@ -22,6 +22,10 @@ $grid-float-breakpoint: 992px; // = $screen-md-min;
   padding: 0.2em 0;
 }
 
+#modal-distance h4 {
+  color: $text-color;
+}
+
 
 #intro-logo {
   display: inline-block;
