@@ -256,6 +256,15 @@ section {
   color: $text-color;
 }
 
+#cancel {
+  background-color: $alert-danger-bg;
+  color: $alert-danger-text;
+
+  p {
+    text-align: justify;
+  }
+}
+
 #photos {
   padding-bottom: 0;
 }
